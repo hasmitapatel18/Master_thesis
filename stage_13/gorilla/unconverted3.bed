@@ -1,0 +1,1712 @@
+#Partially deleted in new
+chr1	4024963	4025523	h^5
+#Partially deleted in new
+chr1	4317980	4318578	h^9
+#Partially deleted in new
+chr1	9581528	9581693	h^32
+#Deleted in new
+chr1	18908962	18909529	h^73
+#Partially deleted in new
+chr1	19828297	19828706	h^79
+#Partially deleted in new
+chr1	20349673	20350324	h^86
+#Deleted in new
+chr1	20524855	20525373	h^90
+#Partially deleted in new
+chr1	23705196	23705554	h^97
+#Partially deleted in new
+chr1	24594496	24594776	h^99
+#Partially deleted in new
+chr1	25334981	25335549	h^102
+#Deleted in new
+chr1	27147293	27147900	h^109
+#Partially deleted in new
+chr1	32870094	32870736	h^142
+#Partially deleted in new
+chr1	33653282	33653862	h^144
+#Partially deleted in new
+chr1	34976892	34977356	h^147
+#Deleted in new
+chr1	35674555	35675138	h^150
+#Partially deleted in new
+chr1	39954442	39954902	h^168
+#Partially deleted in new
+chr1	40085630	40086128	h^169
+#Deleted in new
+chr1	40822935	40823469	h^171
+#Partially deleted in new
+chr1	41394392	41395097	h^175
+#Deleted in new
+chr1	46218373	46218610	h^188
+#Deleted in new
+chr1	53149649	53150244	h^204
+#Deleted in new
+chr1	54891503	54891684	h^209
+#Partially deleted in new
+chr1	55894687	55894816	h^218
+#Deleted in new
+chr1	62118104	62118273	h^258
+#Partially deleted in new
+chr1	68139800	68140391	h^283
+#Deleted in new
+chr1	69696456	69697049	h^294
+#Deleted in new
+chr1	69978303	69978889	h^299
+#Deleted in new
+chr1	79184575	79185312	h^339
+#Partially deleted in new
+chr1	79496322	79496678	h^341
+#Partially deleted in new
+chr1	85217974	85218595	h^384
+#Deleted in new
+chr1	90556087	90556685	h^413
+#Partially deleted in new
+chr1	92086165	92086782	h^429
+#Deleted in new
+chr1	98722272	98722495	h^463
+#Partially deleted in new
+chr1	100235723	100236096	h^473
+#Deleted in new
+chr1	100773976	100774308	h^478
+#Deleted in new
+chr1	104685543	104685747	h^501
+#Partially deleted in new
+chr1	104791270	104791636	h^502
+#Deleted in new
+chr1	105731181	105731606	h^513
+#Partially deleted in new
+chr1	107335288	107335879	h^525
+#Partially deleted in new
+chr1	110501651	110502207	h^541
+#Deleted in new
+chr1	147163896	147164538	h^607
+#Partially deleted in new
+chr1	150615597	150615877	h^611
+#Deleted in new
+chr1	159669381	159669964	h^649
+#Deleted in new
+chr1	163487801	163488430	h^665
+#Partially deleted in new
+chr1	167173525	167174175	h^690
+#Split in new
+chr1	172690113	172690611	h^706
+#Deleted in new
+chr1	176184716	176185036	h^717
+#Partially deleted in new
+chr1	189595302	189595745	h^776
+#Deleted in new
+chr1	191765814	191766092	h^798
+#Deleted in new
+chr1	192642084	192642704	h^805
+#Deleted in new
+chr1	199807874	199808279	h^864
+#Partially deleted in new
+chr1	211897864	211898489	h^921
+#Partially deleted in new
+chr1	214962191	214962606	h^934
+#Partially deleted in new
+chr1	215644833	215645156	h^938
+#Partially deleted in new
+chr1	215691173	215691923	h^940
+#Deleted in new
+chr1	218096522	218097133	h^945
+#Deleted in new
+chr1	221599593	221600097	h^975
+#Partially deleted in new
+chr1	222991348	222991899	h^985
+#Deleted in new
+chr1	224789664	224790024	h^993
+#Partially deleted in new
+chr1	225661856	225662115	h^999
+#Partially deleted in new
+chr1	236803444	236804081	h^1063
+#Deleted in new
+chr1	241976102	241976542	h^1088
+#Partially deleted in new
+chr1	244463624	244463863	h^1099
+#Partially deleted in new
+chr10	972481	972842	h^9166
+#Split in new
+chr10	2357413	2358103	h^9172
+#Partially deleted in new
+chr10	4327153	4327740	h^9189
+#Partially deleted in new
+chr10	5548911	5549476	h^9203
+#Partially deleted in new
+chr10	5857283	5857703	h^9207
+#Partially deleted in new
+chr10	6168120	6168744	h^9209
+#Deleted in new
+chr10	6726408	6726842	h^9215
+#Partially deleted in new
+chr10	8010042	8010498	h^9223
+#Deleted in new
+chr10	8982714	8983104	h^9231
+#Deleted in new
+chr10	9130939	9131529	h^9233
+#Partially deleted in new
+chr10	11840480	11841057	h^9257
+#Partially deleted in new
+chr10	13593487	13593969	h^9261
+#Partially deleted in new
+chr10	14558232	14558565	h^9264
+#Split in new
+chr10	15535158	15535642	h^9268
+#Deleted in new
+chr10	16291176	16291350	h^9271
+#Partially deleted in new
+chr10	17662892	17663476	h^9276
+#Deleted in new
+chr10	20999007	20999708	h^9291
+#Deleted in new
+chr10	23733838	23734503	h^9302
+#Deleted in new
+chr10	26692890	26693453	h^9310
+#Deleted in new
+chr10	29160307	29160881	h^9322
+#Partially deleted in new
+chr10	30593923	30594577	h^9330
+#Deleted in new
+chr10	36708409	36708519	h^9361
+#Deleted in new
+chr10	37047179	37047822	h^9365
+#Partially deleted in new
+chr10	38153437	38153597	h^9370
+#Partially deleted in new
+chr10	44628966	44629612	h^9381
+#Partially deleted in new
+chr10	63101130	63101880	h^9461
+#Deleted in new
+chr10	70778514	70778796	h^9506
+#Deleted in new
+chr10	72214988	72215293	h^9511
+#Partially deleted in new
+chr10	72861270	72861891	h^9518
+#Deleted in new
+chr10	73658158	73658539	h^9520
+#Deleted in new
+chr10	86317374	86317941	h^9579
+#Partially deleted in new
+chr10	87068923	87069492	h^9586
+#Deleted in new
+chr10	87144553	87144909	h^9587
+#Deleted in new
+chr10	92001681	92002279	h^9612
+#Partially deleted in new
+chr10	93671681	93672279	h^9624
+#Partially deleted in new
+chr10	99879209	99879757	h^9641
+#Partially deleted in new
+chr10	103108766	103109091	h^9654
+#Partially deleted in new
+chr10	103496693	103497230	h^9655
+#Partially deleted in new
+chr10	105858067	105858472	h^9658
+#Partially deleted in new
+chr10	108131620	108132022	h^9667
+#Deleted in new
+chr10	108297826	108298416	h^9669
+#Deleted in new
+chr10	109640941	109641271	h^9676
+#Deleted in new
+chr10	109812323	109812800	h^9678
+#Deleted in new
+chr10	111505329	111505898	h^9702
+#Partially deleted in new
+chr10	112081521	112082094	h^9703
+#Deleted in new
+chr10	112096399	112096928	h^9704
+#Partially deleted in new
+chr10	115085162	115085634	h^9734
+#Partially deleted in new
+chr10	126552605	126553189	h^9785
+#Partially deleted in new
+chr10	133162025	133162698	h^9832
+#Deleted in new
+chr11	1342703	1343359	h^9845
+#Deleted in new
+chr11	12057181	12057619	h^9879
+#Partially deleted in new
+chr11	12967283	12968033	h^9883
+#Partially deleted in new
+chr11	13131925	13132200	h^9886
+#Deleted in new
+chr11	15447282	15447884	h^9894
+#Partially deleted in new
+chr11	17232671	17233298	h^9902
+#Split in new
+chr11	19267115	19267759	h^9909
+#Partially deleted in new
+chr11	23504450	23505097	h^9925
+#Deleted in new
+chr11	23567376	23567702	h^9926
+#Deleted in new
+chr11	23874203	23874517	h^9931
+#Deleted in new
+chr11	25381600	25382138	h^9939
+#Deleted in new
+chr11	29464164	29464914	h^9967
+#Partially deleted in new
+chr11	29825208	29825826	h^9971
+#Partially deleted in new
+chr11	32511051	32511636	h^9985
+#Deleted in new
+chr11	33219776	33220149	h^9988
+#Partially deleted in new
+chr11	35890156	35890775	h^10008
+#Partially deleted in new
+chr11	37421389	37422005	h^10020
+#Deleted in new
+chr11	37843870	37844444	h^10025
+#Partially deleted in new
+chr11	38591341	38591604	h^10031
+#Deleted in new
+chr11	39175878	39176473	h^10040
+#Partially deleted in new
+chr11	40095899	40096539	h^10050
+#Partially deleted in new
+chr11	42497074	42497634	h^10057
+#Split in new
+chr11	44823387	44823990	h^10076
+#Deleted in new
+chr11	46250332	46250466	h^10082
+#Partially deleted in new
+chr11	50068598	50068777	h^10084
+#Partially deleted in new
+chr11	56444887	56445630	h^10088
+#Deleted in new
+chr11	60729019	60729694	h^10112
+#Deleted in new
+chr11	64193851	64194478	h^10122
+#Partially deleted in new
+chr11	64258750	64259227	h^10124
+#Deleted in new
+chr11	70070021	70070332	h^10139
+#Split in new
+chr11	72210721	72211371	h^10143
+#Deleted in new
+chr11	79127753	79128252	h^10171
+#Deleted in new
+chr11	79155646	79156026	h^10172
+#Partially deleted in new
+chr11	80841225	80841574	h^10187
+#Deleted in new
+chr11	81067605	81068074	h^10189
+#Deleted in new
+chr11	85797421	85798011	h^10199
+#Partially deleted in new
+chr11	91129096	91129577	h^10223
+#Deleted in new
+chr11	91356391	91356499	h^10226
+#Deleted in new
+chr11	91918648	91918871	h^10231
+#Partially deleted in new
+chr11	92545309	92545845	h^10234
+#Partially deleted in new
+chr11	98036380	98036846	h^10276
+#Deleted in new
+chr11	107658728	107658904	h^10338
+#Deleted in new
+chr11	107849829	107850427	h^10339
+#Split in new
+chr11	107989797	107990271	h^10340
+#Partially deleted in new
+chr11	109345229	109345566	h^10348
+#Deleted in new
+chr11	116405410	116406084	h^10406
+#Deleted in new
+chr11	118290774	118291189	h^10411
+#Deleted in new
+chr11	123079355	123079505	h^10434
+#Deleted in new
+chr12	8096040	8096395	h^10517
+#Partially deleted in new
+chr12	10397166	10397525	h^10524
+#Partially deleted in new
+chr12	11679603	11680190	h^10530
+#Partially deleted in new
+chr12	14314353	14314984	h^10538
+#Partially deleted in new
+chr12	21567695	21567995	h^10581
+#Partially deleted in new
+chr12	21835467	21836026	h^10582
+#Deleted in new
+chr12	22746905	22747549	h^10585
+#Deleted in new
+chr12	25199907	25200254	h^10601
+#Deleted in new
+chr12	27479843	27480318	h^10614
+#Partially deleted in new
+chr12	27656163	27656821	h^10615
+#Deleted in new
+chr12	30512313	30512855	h^10637
+#Deleted in new
+chr12	31498236	31498411	h^10640
+#Partially deleted in new
+chr12	31800544	31801087	h^10642
+#Deleted in new
+chr12	40521753	40521910	h^10662
+#Partially deleted in new
+chr12	53107678	53108428	h^10728
+#Partially deleted in new
+chr12	55684709	55684953	h^10742
+#Deleted in new
+chr12	56800244	56800539	h^10743
+#Partially deleted in new
+chr12	57446094	57446559	h^10746
+#Deleted in new
+chr12	59363085	59363559	h^10762
+#Partially deleted in new
+chr12	60272784	60273314	h^10770
+#Partially deleted in new
+chr12	60475320	60475887	h^10773
+#Deleted in new
+chr12	63482611	63483075	h^10791
+#Deleted in new
+chr12	66143389	66144073	h^10800
+#Partially deleted in new
+chr12	69200060	69200599	h^10821
+#Partially deleted in new
+chr12	74989887	74990460	h^10865
+#Partially deleted in new
+chr12	75863453	75864084	h^10870
+#Deleted in new
+chr12	77288501	77289050	h^10885
+#Partially deleted in new
+chr12	77375065	77375736	h^10888
+#Partially deleted in new
+chr12	78697355	78697963	h^10895
+#Partially deleted in new
+chr12	80613847	80614239	h^10906
+#Partially deleted in new
+chr12	90743110	90743720	h^10969
+#Deleted in new
+chr12	90862180	90862796	h^10972
+#Deleted in new
+chr12	94959391	94959966	h^11006
+#Deleted in new
+chr12	95275356	95275783	h^11009
+#Deleted in new
+chr12	105982540	105983136	h^11068
+#Partially deleted in new
+chr12	106745287	106745673	h^11076
+#Partially deleted in new
+chr12	111217924	111218639	h^11093
+#Partially deleted in new
+chr12	113211576	113211898	h^11099
+#Deleted in new
+chr12	115235474	115236139	h^11118
+#Deleted in new
+chr12	116924047	116924186	h^11133
+#Partially deleted in new
+chr12	117129616	117130168	h^11135
+#Deleted in new
+chr12	125197857	125198542	h^11157
+#Partially deleted in new
+chr12	125769355	125769992	h^11161
+#Deleted in new
+chr13	29345687	29346042	h^11242
+#Deleted in new
+chr13	29595121	29595495	h^11244
+#Deleted in new
+chr13	30081505	30082132	h^11245
+#Deleted in new
+chr13	32558167	32558917	h^11261
+#Partially deleted in new
+chr13	44646597	44646713	h^11342
+#Partially deleted in new
+chr13	45172114	45172640	h^11346
+#Partially deleted in new
+chr13	49389719	49390263	h^11365
+#Deleted in new
+chr13	54920066	54920552	h^11394
+#Partially deleted in new
+chr13	55776862	55777509	h^11404
+#Deleted in new
+chr13	56566323	56566533	h^11411
+#Deleted in new
+chr13	57623431	57623779	h^11424
+#Deleted in new
+chr13	59820215	59820867	h^11449
+#Deleted in new
+chr13	60238010	60238258	h^11456
+#Partially deleted in new
+chr13	63892665	63893295	h^11486
+#Partially deleted in new
+chr13	68051341	68051635	h^11522
+#Deleted in new
+chr13	68285611	68285953	h^11525
+#Partially deleted in new
+chr13	70238699	70239245	h^11543
+#Partially deleted in new
+chr13	70789140	70789717	h^11544
+#Deleted in new
+chr13	75656593	75657185	h^11593
+#Partially deleted in new
+chr13	77225801	77226355	h^11606
+#Deleted in new
+chr13	77941142	77941442	h^11615
+#Deleted in new
+chr13	81305670	81305948	h^11642
+#Partially deleted in new
+chr13	81634139	81634442	h^11644
+#Deleted in new
+chr13	81735576	81736238	h^11646
+#Deleted in new
+chr13	84338289	84338630	h^11677
+#Partially deleted in new
+chr13	84710656	84710949	h^11681
+#Partially deleted in new
+chr13	85210299	85210900	h^11684
+#Deleted in new
+chr13	86040426	86041001	h^11693
+#Deleted in new
+chr13	98199547	98199782	h^11752
+#Deleted in new
+chr13	100663159	100663730	h^11761
+#Partially deleted in new
+chr13	101513577	101513779	h^11767
+#Partially deleted in new
+chr13	108976703	108977297	h^11828
+#Partially deleted in new
+chr14	20933991	20934380	h^11863
+#Deleted in new
+chr14	23731581	23732069	h^11874
+#Partially deleted in new
+chr14	26831651	26832275	h^11897
+#Deleted in new
+chr14	29216248	29216896	h^11922
+#Partially deleted in new
+chr14	34586910	34587393	h^11954
+#Deleted in new
+chr14	34866865	34867299	h^11957
+#Partially deleted in new
+chr14	38938227	38938746	h^11973
+#Partially deleted in new
+chr14	40256729	40257454	h^11986
+#Partially deleted in new
+chr14	41503018	41503606	h^11995
+#Partially deleted in new
+chr14	42384855	42385248	h^11999
+#Deleted in new
+chr14	43890717	43891322	h^12013
+#Deleted in new
+chr14	43977015	43977410	h^12015
+#Partially deleted in new
+chr14	44285934	44286384	h^12017
+#Deleted in new
+chr14	46829583	46830176	h^12036
+#Deleted in new
+chr14	52443030	52443600	h^12073
+#Deleted in new
+chr14	53261012	53261304	h^12076
+#Deleted in new
+chr14	55399497	55400024	h^12094
+#Deleted in new
+chr14	58395604	58395949	h^12111
+#Partially deleted in new
+chr14	58709417	58710044	h^12113
+#Partially deleted in new
+chr14	59164488	59165086	h^12115
+#Partially deleted in new
+chr14	64120707	64121073	h^12143
+#Deleted in new
+chr14	70065385	70065617	h^12164
+#Partially deleted in new
+chr14	73380843	73381456	h^12172
+#Deleted in new
+chr14	73699645	73700215	h^12173
+#Partially deleted in new
+chr14	75219821	75220188	h^12178
+#Partially deleted in new
+chr14	82925562	82925746	h^12207
+#Partially deleted in new
+chr14	87187941	87188378	h^12256
+#Deleted in new
+chr14	87412169	87412605	h^12259
+#Deleted in new
+chr14	100021686	100022284	h^12333
+#Partially deleted in new
+chr14	101845497	101846104	h^12340
+#Partially deleted in new
+chr14	104742338	104742879	h^12348
+#Deleted in new
+chr15	26530129	26530751	h^12366
+#Partially deleted in new
+chr15	26590966	26591630	h^12367
+#Deleted in new
+chr15	26767983	26768586	h^12369
+#Deleted in new
+chr15	29543403	29543862	h^12370
+#Partially deleted in new
+chr15	29641755	29642023	h^12371
+#Deleted in new
+chr15	32169286	32169890	h^12377
+#Partially deleted in new
+chr15	41873109	41873467	h^12430
+#Partially deleted in new
+chr15	65070384	65070685	h^12544
+#Partially deleted in new
+chr15	65328536	65329067	h^12546
+#Deleted in new
+chr15	66125295	66125881	h^12548
+#Split in new
+chr15	69139969	69140272	h^12562
+#Partially deleted in new
+chr15	70469998	70470584	h^12572
+#Deleted in new
+chr15	73036278	73036888	h^12583
+#Deleted in new
+chr15	73725914	73726491	h^12591
+#Partially deleted in new
+chr15	74700778	74701030	h^12596
+#Deleted in new
+chr15	75404228	75404446	h^12600
+#Partially deleted in new
+chr15	77220093	77220670	h^12605
+#Partially deleted in new
+chr15	80248766	80249407	h^12629
+#Partially deleted in new
+chr15	88944569	88945237	h^12671
+#Split in new
+chr15	89496758	89497363	h^12676
+#Partially deleted in new
+chr15	89772674	89773287	h^12679
+#Deleted in new
+chr15	97532376	97533045	h^12731
+#Partially deleted in new
+chr15	98921086	98921670	h^12737
+#Deleted in new
+chr15	100477818	100478414	h^12748
+#Deleted in new
+chr15	102269604	102270234	h^12758
+#Deleted in new
+chr16	3547750	3548430	h^12764
+#Partially deleted in new
+chr16	3974814	3975418	h^12765
+#Partially deleted in new
+chr16	10601957	10602298	h^12792
+#Partially deleted in new
+chr16	16035379	16035769	h^12810
+#Deleted in new
+chr16	20234236	20234903	h^12829
+#Deleted in new
+chr16	24395417	24395741	h^12841
+#Partially deleted in new
+chr16	25483005	25483648	h^12847
+#Deleted in new
+chr16	26601878	26602553	h^12855
+#Split in new
+chr16	47066680	47067361	h^12869
+#Deleted in new
+chr16	52327987	52328189	h^12909
+#Deleted in new
+chr16	52339902	52340057	h^12910
+#Partially deleted in new
+chr16	53010013	53010360	h^12918
+#Deleted in new
+chr16	58333038	58333624	h^12943
+#Deleted in new
+chr16	59479048	59479638	h^12950
+#Partially deleted in new
+chr16	60175444	60176012	h^12957
+#Partially deleted in new
+chr16	60922716	60923320	h^12964
+#Deleted in new
+chr16	62158193	62158908	h^12978
+#Partially deleted in new
+chr16	68755677	68755984	h^13033
+#Split in new
+chr16	70645652	70645900	h^13037
+#Partially deleted in new
+chr16	72273664	72274028	h^13041
+#Deleted in new
+chr16	73957530	73957746	h^13051
+#Partially deleted in new
+chr16	79738370	79739120	h^13081
+#Partially deleted in new
+chr16	85891970	85892559	h^13109
+#Deleted in new
+chr17	5398790	5399096	h^13140
+#Partially deleted in new
+chr17	13001434	13001693	h^13174
+#Deleted in new
+chr17	13387818	13388214	h^13177
+#Partially deleted in new
+chr17	25568717	25569318	h^13205
+#Partially deleted in new
+chr17	33909978	33910381	h^13233
+#Deleted in new
+chr17	42321056	42321269	h^13267
+#Partially deleted in new
+chr17	52652583	52653075	h^13326
+#Deleted in new
+chr17	59698546	59699174	h^13351
+#Deleted in new
+chr17	61075034	61075669	h^13354
+#Deleted in new
+chr17	63487706	63487963	h^13361
+#Deleted in new
+chr17	69401030	69401359	h^13389
+#Partially deleted in new
+chr17	73405469	73405751	h^13412
+#Partially deleted in new
+chr17	74456929	74457119	h^13416
+#Deleted in new
+chr18	4863789	4864236	h^13467
+#Partially deleted in new
+chr18	5139531	5140193	h^13470
+#Deleted in new
+chr18	24379024	24379760	h^13555
+#Partially deleted in new
+chr18	27018295	27018793	h^13576
+#Partially deleted in new
+chr18	27038536	27039167	h^13577
+#Partially deleted in new
+chr18	27979007	27979491	h^13589
+#Deleted in new
+chr18	29801937	29802561	h^13604
+#Deleted in new
+chr18	31926270	31926938	h^13616
+#Partially deleted in new
+chr18	39147099	39147830	h^13669
+#Partially deleted in new
+chr18	45814847	45815174	h^13705
+#Deleted in new
+chr18	47876578	47877026	h^13711
+#Deleted in new
+chr18	51361361	51361775	h^13731
+#Partially deleted in new
+chr18	56525331	56525768	h^13767
+#Deleted in new
+chr18	64301035	64301497	h^13814
+#Partially deleted in new
+chr18	68612605	68613205	h^13849
+#Deleted in new
+chr18	69413941	69414190	h^13857
+#Deleted in new
+chr18	71836738	71836962	h^13878
+#Partially deleted in new
+chr18	72044570	72044770	h^13880
+#Deleted in new
+chr18	73839162	73839786	h^13894
+#Partially deleted in new
+chr18	75158337	75158586	h^13904
+#Partially deleted in new
+chr19	1303081	1303663	h^13925
+#Partially deleted in new
+chr19	8957359	8957536	h^13936
+#Partially deleted in new
+chr19	9175732	9176003	h^13938
+#Deleted in new
+chr19	11047447	11047577	h^13944
+#Deleted in new
+chr19	11745040	11745354	h^13945
+#Deleted in new
+chr19	15743337	15743656	h^13953
+#Partially deleted in new
+chr19	30638492	30639175	h^13977
+#Partially deleted in new
+chr19	41145843	41146495	h^14014
+#Partially deleted in new
+chr19	42646929	42647532	h^14018
+#Partially deleted in new
+chr19	42747854	42748323	h^14019
+#Partially deleted in new
+chr19	45338954	45339257	h^14026
+#Deleted in new
+chr19	49732166	49732293	h^14031
+#Split in new
+chr19	52562764	52562949	h^14039
+#Partially deleted in new
+chr19	52731192	52731545	h^14040
+#Partially deleted in new
+chr19	52929869	52930422	h^14041
+#Deleted in new
+chr19	53112655	53112845	h^14043
+#Partially deleted in new
+chr19	53554835	53555262	h^14044
+#Partially deleted in new
+chr19	54576857	54577057	h^14047
+#Partially deleted in new
+chr19	57935649	57936120	h^14055
+#Partially deleted in new
+chr2	10667165	10667709	h^1192
+#Split in new
+chr2	13494051	13494267	h^1218
+#Deleted in new
+chr2	14026453	14027118	h^1221
+#Partially deleted in new
+chr2	16235700	16236135	h^1244
+#Partially deleted in new
+chr2	17336958	17337469	h^1253
+#Partially deleted in new
+chr2	18000932	18001593	h^1257
+#Deleted in new
+chr2	18830567	18830914	h^1262
+#Deleted in new
+chr2	22701278	22701849	h^1300
+#Split in new
+chr2	24768763	24769346	h^1315
+#Partially deleted in new
+chr2	26959207	26959794	h^1317
+#Deleted in new
+chr2	27771762	27772240	h^1320
+#Partially deleted in new
+chr2	27783854	27784501	h^1321
+#Deleted in new
+chr2	30531553	30531981	h^1333
+#Partially deleted in new
+chr2	35215048	35215484	h^1358
+#Partially deleted in new
+chr2	42321827	42322409	h^1416
+#Partially deleted in new
+chr2	43236019	43236407	h^1421
+#Deleted in new
+chr2	43828830	43829050	h^1422
+#Partially deleted in new
+chr2	45022993	45023206	h^1426
+#Deleted in new
+chr2	47919566	47919792	h^1441
+#Deleted in new
+chr2	52326276	52326639	h^1470
+#Deleted in new
+chr2	57048136	57048453	h^1506
+#Deleted in new
+chr2	57360935	57361204	h^1509
+#Partially deleted in new
+chr2	58618352	58618944	h^1518
+#Partially deleted in new
+chr2	62123997	62124259	h^1541
+#Deleted in new
+chr2	64737381	64737801	h^1552
+#Partially deleted in new
+chr2	64749131	64749813	h^1553
+#Partially deleted in new
+chr2	65263790	65264438	h^1559
+#Deleted in new
+chr2	68501292	68501399	h^1580
+#Partially deleted in new
+chr2	74417731	74418264	h^1604
+#Deleted in new
+chr2	74986771	74987388	h^1606
+#Deleted in new
+chr2	83993418	83993764	h^1669
+#Deleted in new
+chr2	85336388	85336762	h^1677
+#Partially deleted in new
+chr2	85918501	85918932	h^1680
+#Deleted in new
+chr2	103933615	103933992	h^1719
+#Deleted in new
+chr2	107653948	107654551	h^1745
+#Deleted in new
+chr2	107916935	107917484	h^1747
+#Deleted in new
+chr2	114632733	114633289	h^1778
+#Partially deleted in new
+chr2	116906697	116907335	h^1792
+#Partially deleted in new
+chr2	117336739	117337114	h^1794
+#Partially deleted in new
+chr2	122779716	122779863	h^1833
+#Deleted in new
+chr2	123065871	123066485	h^1836
+#Deleted in new
+chr2	123731050	123731273	h^1841
+#Deleted in new
+chr2	127252322	127252689	h^1869
+#Deleted in new
+chr2	127407965	127408463	h^1871
+#Partially deleted in new
+chr2	128452172	128452446	h^1881
+#Partially deleted in new
+chr2	136843876	136843981	h^1915
+#Deleted in new
+chr2	137079217	137079566	h^1919
+#Partially deleted in new
+chr2	143234741	143235225	h^1955
+#Deleted in new
+chr2	143528274	143528893	h^1959
+#Partially deleted in new
+chr2	143856521	143857138	h^1963
+#Partially deleted in new
+chr2	145946614	145947265	h^1971
+#Deleted in new
+chr2	146121924	146122518	h^1973
+#Deleted in new
+chr2	151059656	151060265	h^2023
+#Partially deleted in new
+chr2	151993012	151993574	h^2033
+#Deleted in new
+chr2	153946048	153946277	h^2045
+#Partially deleted in new
+chr2	155805165	155805352	h^2055
+#Deleted in new
+chr2	158232638	158233221	h^2079
+#Deleted in new
+chr2	165184619	165184946	h^2118
+#Partially deleted in new
+chr2	166253303	166253961	h^2122
+#Partially deleted in new
+chr2	170740483	170740665	h^2141
+#Deleted in new
+chr2	172114933	172115526	h^2142
+#Partially deleted in new
+chr2	173936274	173936827	h^2149
+#Partially deleted in new
+chr2	184533289	184533667	h^2216
+#Deleted in new
+chr2	184887629	184888067	h^2217
+#Partially deleted in new
+chr2	185169791	185170421	h^2219
+#Partially deleted in new
+chr2	186896020	186896353	h^2230
+#Deleted in new
+chr2	190857514	190858264	h^2251
+#Partially deleted in new
+chr2	192037799	192038257	h^2257
+#Deleted in new
+chr2	192681289	192681876	h^2269
+#Partially deleted in new
+chr2	195742327	195742916	h^2296
+#Deleted in new
+chr2	199024879	199025009	h^2310
+#Partially deleted in new
+chr2	201008138	201008345	h^2331
+#Deleted in new
+chr2	201609171	201609590	h^2335
+#Split in new
+chr2	204422395	204422974	h^2345
+#Partially deleted in new
+chr2	213806418	213807148	h^2387
+#Deleted in new
+chr2	213855961	213856556	h^2388
+#Partially deleted in new
+chr2	216145866	216146460	h^2395
+#Deleted in new
+chr2	216357470	216357927	h^2396
+#Deleted in new
+chr2	221264683	221265324	h^2431
+#Partially deleted in new
+chr2	224049623	224049893	h^2464
+#Partially deleted in new
+chr2	227348554	227349115	h^2493
+#Deleted in new
+chr2	238142751	238142988	h^2557
+#Deleted in new
+chr20	136817	137074	h^14059
+#Partially deleted in new
+chr20	718642	719003	h^14062
+#Partially deleted in new
+chr20	2756537	2756843	h^14076
+#Split in new
+chr20	4808802	4809352	h^14086
+#Deleted in new
+chr20	10699887	10700152	h^14118
+#Partially deleted in new
+chr20	10731163	10731721	h^14120
+#Partially deleted in new
+chr20	13828058	13828710	h^14145
+#Deleted in new
+chr20	21023454	21023663	h^14175
+#Partially deleted in new
+chr20	21886866	21887178	h^14179
+#Deleted in new
+chr20	23035537	23036123	h^14187
+#Deleted in new
+chr20	23099566	23100222	h^14188
+#Deleted in new
+chr20	23124622	23124975	h^14189
+#Partially deleted in new
+chr20	24824290	24824968	h^14201
+#Deleted in new
+chr20	38699004	38699163	h^14235
+#Partially deleted in new
+chr20	40273254	40273856	h^14249
+#Partially deleted in new
+chr20	40336590	40336994	h^14251
+#Partially deleted in new
+chr20	46806469	46807065	h^14281
+#Deleted in new
+chr20	48118450	48118790	h^14288
+#Partially deleted in new
+chr20	48582502	48582845	h^14290
+#Partially deleted in new
+chr20	50515741	50516297	h^14300
+#Deleted in new
+chr20	52145721	52146026	h^14310
+#Deleted in new
+chr20	55522322	55522821	h^14340
+#Deleted in new
+chr20	56008156	56008727	h^14345
+#Partially deleted in new
+chr20	59611361	59612070	h^14370
+#Partially deleted in new
+chr21	16009204	16009480	h^14378
+#Deleted in new
+chr21	16282009	16282661	h^14381
+#Partially deleted in new
+chr21	19903159	19903656	h^14406
+#Deleted in new
+chr21	21302948	21303114	h^14416
+#Deleted in new
+chr21	21822542	21822834	h^14420
+#Partially deleted in new
+chr21	23885431	23885898	h^14430
+#Deleted in new
+chr21	25513088	25513689	h^14445
+#Deleted in new
+chr21	29216423	29216535	h^14466
+#Deleted in new
+chr21	33023051	33023626	h^14487
+#Deleted in new
+chr21	33661130	33661535	h^14495
+#Partially deleted in new
+chr21	43818604	43819049	h^14531
+#Partially deleted in new
+chr22	17556397	17556880	h^14545
+#Deleted in new
+chr22	17717905	17718357	h^14546
+#Partially deleted in new
+chr22	17743254	17743633	h^14547
+#Partially deleted in new
+chr22	17862844	17863352	h^14549
+#Partially deleted in new
+chr22	30247646	30247953	h^14581
+#Deleted in new
+chr22	30260715	30261170	h^14582
+#Partially deleted in new
+chr22	33662673	33663257	h^14593
+#Partially deleted in new
+chr22	35508456	35509119	h^14603
+#Deleted in new
+chr22	37384295	37384537	h^14610
+#Partially deleted in new
+chr22	39688978	39689604	h^14617
+#Partially deleted in new
+chr22	43754594	43754954	h^14627
+#Partially deleted in new
+chr22	50152612	50153179	h^14662
+#Deleted in new
+chr22	50235987	50236327	h^14663
+#Partially deleted in new
+chr3	5779042	5779561	h^2596
+#Partially deleted in new
+chr3	12581586	12582181	h^2621
+#Deleted in new
+chr3	12819187	12819572	h^2622
+#Deleted in new
+chr3	13961515	13962241	h^2631
+#Partially deleted in new
+chr3	20065232	20065674	h^2664
+#Deleted in new
+chr3	23219913	23220456	h^2701
+#Deleted in new
+chr3	26488420	26488996	h^2723
+#Deleted in new
+chr3	27131827	27132482	h^2727
+#Partially deleted in new
+chr3	33008116	33008683	h^2768
+#Partially deleted in new
+chr3	35329554	35330204	h^2788
+#Partially deleted in new
+chr3	46691019	46691332	h^2852
+#Deleted in new
+chr3	47419421	47419581	h^2855
+#Partially deleted in new
+chr3	62915846	62916105	h^2891
+#Partially deleted in new
+chr3	63238422	63239072	h^2894
+#Partially deleted in new
+chr3	66596481	66597041	h^2909
+#Deleted in new
+chr3	73176842	73177195	h^2952
+#Deleted in new
+chr3	76816517	76816890	h^2972
+#Partially deleted in new
+chr3	78252918	78253545	h^2988
+#Deleted in new
+chr3	79991554	79991980	h^3002
+#Partially deleted in new
+chr3	80051182	80051792	h^3003
+#Partially deleted in new
+chr3	83663473	83664179	h^3029
+#Deleted in new
+chr3	88610619	88610796	h^3058
+#Deleted in new
+chr3	94607573	94608189	h^3081
+#Partially deleted in new
+chr3	95860486	95860756	h^3092
+#Partially deleted in new
+chr3	96199510	96199968	h^3094
+#Partially deleted in new
+chr3	102416040	102416618	h^3128
+#Deleted in new
+chr3	104557899	104558281	h^3157
+#Deleted in new
+chr3	108963955	108964541	h^3189
+#Deleted in new
+chr3	113988351	113988503	h^3216
+#Deleted in new
+chr3	135615069	135615700	h^3297
+#Partially deleted in new
+chr3	137626258	137626945	h^3307
+#Deleted in new
+chr3	141978754	141978939	h^3322
+#Partially deleted in new
+chr3	144297389	144297887	h^3335
+#Deleted in new
+chr3	148143219	148143830	h^3365
+#Deleted in new
+chr3	148655763	148655997	h^3369
+#Deleted in new
+chr3	151940395	151940583	h^3392
+#Partially deleted in new
+chr3	152616481	152616721	h^3401
+#Deleted in new
+chr3	152839680	152839815	h^3403
+#Partially deleted in new
+chr3	155476218	155476790	h^3425
+#Partially deleted in new
+chr3	156797039	156797321	h^3431
+#Deleted in new
+chr3	157253106	157253746	h^3434
+#Deleted in new
+chr3	158325010	158325144	h^3441
+#Deleted in new
+chr3	162245798	162246452	h^3457
+#Deleted in new
+chr3	163686409	163686597	h^3467
+#Deleted in new
+chr3	164583400	164583685	h^3469
+#Partially deleted in new
+chr3	174512375	174513125	h^3532
+#Deleted in new
+chr3	174567851	174568446	h^3533
+#Partially deleted in new
+chr3	175566831	175567171	h^3534
+#Partially deleted in new
+chr3	185356703	185357299	h^3592
+#Partially deleted in new
+chr3	189968695	189969315	h^3609
+#Deleted in new
+chr3	190385159	190385755	h^3612
+#Partially deleted in new
+chr4	4265387	4265905	h^3655
+#Partially deleted in new
+chr4	6654328	6654704	h^3670
+#Partially deleted in new
+chr4	12151162	12151607	h^3696
+#Partially deleted in new
+chr4	15335451	15336116	h^3719
+#Deleted in new
+chr4	18587673	18588423	h^3741
+#Partially deleted in new
+chr4	20034843	20035323	h^3761
+#Partially deleted in new
+chr4	23186098	23186782	h^3773
+#Deleted in new
+chr4	25552499	25552933	h^3796
+#Deleted in new
+chr4	25713874	25714043	h^3798
+#Deleted in new
+chr4	28483381	28483747	h^3814
+#Partially deleted in new
+chr4	28783596	28783809	h^3815
+#Deleted in new
+chr4	29556778	29557275	h^3824
+#Partially deleted in new
+chr4	30046482	30047169	h^3833
+#Deleted in new
+chr4	31160523	31161273	h^3839
+#Partially deleted in new
+chr4	31916204	31916750	h^3845
+#Partially deleted in new
+chr4	32579443	32579779	h^3851
+#Deleted in new
+chr4	37274619	37274778	h^3888
+#Deleted in new
+chr4	38179496	38180182	h^3895
+#Partially deleted in new
+chr4	41845195	41845526	h^3905
+#Partially deleted in new
+chr4	45605560	45605782	h^3929
+#Deleted in new
+chr4	45981199	45981347	h^3934
+#Deleted in new
+chr4	46708779	46709435	h^3937
+#Partially deleted in new
+chr4	56258583	56259242	h^3957
+#Deleted in new
+chr4	57585706	57586126	h^3961
+#Deleted in new
+chr4	58938309	58938940	h^3972
+#Partially deleted in new
+chr4	64947036	64947721	h^4021
+#Deleted in new
+chr4	64998755	64999360	h^4023
+#Deleted in new
+chr4	65995347	65995949	h^4034
+#Partially deleted in new
+chr4	68256391	68256758	h^4050
+#Deleted in new
+chr4	71431327	71431822	h^4053
+#Deleted in new
+chr4	76386774	76387232	h^4089
+#Deleted in new
+chr4	80579922	80580633	h^4102
+#Partially deleted in new
+chr4	86026861	86027337	h^4134
+#Partially deleted in new
+chr4	86186753	86187015	h^4136
+#Partially deleted in new
+chr4	86250261	86250818	h^4137
+#Deleted in new
+chr4	90525770	90526381	h^4161
+#Deleted in new
+chr4	95065351	95065468	h^4172
+#Deleted in new
+chr4	97984785	97985418	h^4197
+#Partially deleted in new
+chr4	99771302	99771896	h^4210
+#Partially deleted in new
+chr4	103292364	103292945	h^4230
+#Deleted in new
+chr4	107407834	107408478	h^4248
+#Deleted in new
+chr4	108047211	108047601	h^4254
+#Partially deleted in new
+chr4	109629148	109629363	h^4266
+#Partially deleted in new
+chr4	109685428	109686029	h^4267
+#Partially deleted in new
+chr4	118569479	118570097	h^4324
+#Deleted in new
+chr4	128207247	128207486	h^4395
+#Partially deleted in new
+chr4	131225791	131226467	h^4413
+#Partially deleted in new
+chr4	131338714	131339277	h^4416
+#Partially deleted in new
+chr4	131355183	131355478	h^4417
+#Deleted in new
+chr4	131813732	131814081	h^4422
+#Deleted in new
+chr4	136015109	136015585	h^4456
+#Partially deleted in new
+chr4	138170517	138171058	h^4483
+#Deleted in new
+chr4	141076549	141077204	h^4502
+#Partially deleted in new
+chr4	142104642	142105214	h^4504
+#Partially deleted in new
+chr4	149565630	149566164	h^4542
+#Deleted in new
+chr4	160332612	160332730	h^4614
+#Partially deleted in new
+chr4	160497226	160497672	h^4617
+#Deleted in new
+chr4	163440340	163440685	h^4636
+#Deleted in new
+chr4	165595398	165595785	h^4645
+#Partially deleted in new
+chr4	168249321	168249905	h^4656
+#Deleted in new
+chr4	168673594	168674222	h^4659
+#Deleted in new
+chr4	168875708	168876192	h^4661
+#Partially deleted in new
+chr4	180106862	180107487	h^4734
+#Partially deleted in new
+chr4	183141273	183141783	h^4767
+#Deleted in new
+chr4	183234698	183235072	h^4769
+#Partially deleted in new
+chr4	186129688	186130149	h^4776
+#Partially deleted in new
+chr4	189681761	189682247	h^4798
+#Deleted in new
+chr4	189735778	189736160	h^4799
+#Deleted in new
+chr5	1911682	1912272	h^4815
+#Partially deleted in new
+chr5	5729309	5729592	h^4847
+#Partially deleted in new
+chr5	15145421	15145881	h^4910
+#Partially deleted in new
+chr5	16999812	17000436	h^4918
+#Partially deleted in new
+chr5	18572874	18573442	h^4931
+#Deleted in new
+chr5	25989458	25990026	h^4987
+#Partially deleted in new
+chr5	29046901	29047307	h^5021
+#Deleted in new
+chr5	29345073	29345450	h^5024
+#Partially deleted in new
+chr5	29772271	29772948	h^5026
+#Partially deleted in new
+chr5	37078342	37078979	h^5072
+#Partially deleted in new
+chr5	50836825	50837464	h^5138
+#Deleted in new
+chr5	51038770	51039375	h^5142
+#Deleted in new
+chr5	57823807	57824263	h^5187
+#Partially deleted in new
+chr5	62769963	62770405	h^5213
+#Partially deleted in new
+chr5	66495035	66495670	h^5231
+#Split in new
+chr5	66818593	66819237	h^5235
+#Partially deleted in new
+chr5	68643896	68644133	h^5250
+#Deleted in new
+chr5	73664260	73664854	h^5275
+#Partially deleted in new
+chr5	73895240	73895912	h^5278
+#Deleted in new
+chr5	74962589	74963259	h^5282
+#Deleted in new
+chr5	76071412	76071735	h^5290
+#Deleted in new
+chr5	78437116	78437538	h^5299
+#Partially deleted in new
+chr5	84283305	84283931	h^5324
+#Partially deleted in new
+chr5	85295881	85296511	h^5333
+#Partially deleted in new
+chr5	85461256	85462006	h^5335
+#Partially deleted in new
+chr5	91439871	91440493	h^5393
+#Partially deleted in new
+chr5	99163480	99163983	h^5435
+#Deleted in new
+chr5	103121950	103122452	h^5474
+#Partially deleted in new
+chr5	104999040	104999631	h^5501
+#Partially deleted in new
+chr5	105522456	105523206	h^5512
+#Deleted in new
+chr5	106499083	106499457	h^5525
+#Partially deleted in new
+chr5	106544820	106545024	h^5527
+#Deleted in new
+chr5	108605450	108605688	h^5538
+#Partially deleted in new
+chr5	108855686	108856280	h^5540
+#Deleted in new
+chr5	116977778	116978405	h^5586
+#Deleted in new
+chr5	121620054	121620351	h^5620
+#Deleted in new
+chr5	128721670	128722083	h^5669
+#Partially deleted in new
+chr5	131620805	131621308	h^5685
+#Partially deleted in new
+chr5	138073061	138073326	h^5712
+#Partially deleted in new
+chr5	139471983	139472606	h^5716
+#Deleted in new
+chr5	139702292	139702745	h^5717
+#Partially deleted in new
+chr5	146899717	146900361	h^5756
+#Partially deleted in new
+chr5	153239067	153239682	h^5782
+#Partially deleted in new
+chr5	157144941	157145285	h^5801
+#Partially deleted in new
+chr5	160643738	160644358	h^5829
+#Deleted in new
+chr5	163251795	163252278	h^5850
+#Deleted in new
+chr5	173136426	173137008	h^5918
+#Deleted in new
+chr5	173160051	173160225	h^5919
+#Deleted in new
+chr5	173171256	173171874	h^5920
+#Partially deleted in new
+chr5	173219020	173219562	h^5921
+#Deleted in new
+chr5	173299724	173300347	h^5923
+#Deleted in new
+chr5	173458890	173459110	h^5924
+#Deleted in new
+chr5	174137866	174138233	h^5929
+#Deleted in new
+chr5	178118557	178118763	h^5946
+#Deleted in new
+chr6	802886	803180	h^5955
+#Partially deleted in new
+chr6	6930984	6931561	h^5986
+#Partially deleted in new
+chr6	9612904	9613570	h^6001
+#Deleted in new
+chr6	15951009	15951617	h^6042
+#Split in new
+chr6	24737266	24737931	h^6104
+#Deleted in new
+chr6	27136642	27136833	h^6118
+#Partially deleted in new
+chr6	27771536	27772175	h^6123
+#Deleted in new
+chr6	28162231	28162475	h^6126
+#Deleted in new
+chr6	32107816	32108115	h^6138
+#Partially deleted in new
+chr6	37048436	37048984	h^6161
+#Partially deleted in new
+chr6	39206501	39207092	h^6169
+#Partially deleted in new
+chr6	43834579	43835201	h^6190
+#Deleted in new
+chr6	44618453	44618595	h^6199
+#Partially deleted in new
+chr6	46075490	46075792	h^6205
+#Deleted in new
+chr6	49725896	49726269	h^6232
+#Deleted in new
+chr6	49890055	49890469	h^6233
+#Deleted in new
+chr6	51041568	51042077	h^6246
+#Partially deleted in new
+chr6	54809979	54810582	h^6268
+#Split in new
+chr6	64179606	64179781	h^6289
+#Partially deleted in new
+chr6	65984274	65984700	h^6319
+#Deleted in new
+chr6	66772060	66772368	h^6327
+#Deleted in new
+chr6	67235852	67236070	h^6330
+#Partially deleted in new
+chr6	70120676	70121081	h^6346
+#Partially deleted in new
+chr6	74240572	74240927	h^6366
+#Partially deleted in new
+chr6	74252618	74253263	h^6367
+#Deleted in new
+chr6	74266541	74267100	h^6368
+#Deleted in new
+chr6	75526793	75527094	h^6369
+#Partially deleted in new
+chr6	81537139	81537540	h^6411
+#Deleted in new
+chr6	82418907	82419570	h^6416
+#Partially deleted in new
+chr6	86379274	86379854	h^6443
+#Partially deleted in new
+chr6	86436939	86437250	h^6444
+#Deleted in new
+chr6	87294129	87294773	h^6450
+#Deleted in new
+chr6	87486876	87487158	h^6453
+#Deleted in new
+chr6	89138883	89139535	h^6459
+#Partially deleted in new
+chr6	92779077	92779570	h^6478
+#Partially deleted in new
+chr6	93104267	93104859	h^6482
+#Deleted in new
+chr6	93240878	93241533	h^6483
+#Partially deleted in new
+chr6	94785129	94785751	h^6497
+#Deleted in new
+chr6	95587765	95588096	h^6505
+#Deleted in new
+chr6	96710168	96710814	h^6510
+#Deleted in new
+chr6	103481851	103482086	h^6556
+#Deleted in new
+chr6	104131395	104132038	h^6566
+#Partially deleted in new
+chr6	104718713	104719220	h^6569
+#Partially deleted in new
+chr6	107428678	107429323	h^6591
+#Deleted in new
+chr6	109533483	109533764	h^6595
+#Partially deleted in new
+chr6	110244782	110245373	h^6599
+#Partially deleted in new
+chr6	114118180	114118652	h^6623
+#Deleted in new
+chr6	137911511	137912163	h^6753
+#Deleted in new
+chr6	139022412	139022983	h^6765
+#Deleted in new
+chr6	148385148	148385772	h^6814
+#Deleted in new
+chr6	151713677	151714236	h^6830
+#Deleted in new
+chr6	156473218	156473772	h^6854
+#Partially deleted in new
+chr6	158663570	158663920	h^6864
+#Split in new
+chr6	161178652	161178935	h^6872
+#Partially deleted in new
+chr6	169852218	169852855	h^6911
+#Partially deleted in new
+chr7	5618629	5618810	h^6927
+#Deleted in new
+chr7	8951451	8951984	h^6935
+#Deleted in new
+chr7	9202870	9202994	h^6937
+#Deleted in new
+chr7	11902804	11903047	h^6952
+#Deleted in new
+chr7	20354659	20355153	h^7010
+#Deleted in new
+chr7	24014007	24014566	h^7037
+#Partially deleted in new
+chr7	25097023	25097646	h^7048
+#Partially deleted in new
+chr7	25879014	25879585	h^7059
+#Partially deleted in new
+chr7	25905970	25906596	h^7060
+#Partially deleted in new
+chr7	27017293	27017873	h^7068
+#Deleted in new
+chr7	30996555	30997134	h^7085
+#Partially deleted in new
+chr7	35542278	35542597	h^7106
+#Split in new
+chr7	35813351	35813896	h^7109
+#Partially deleted in new
+chr7	41920320	41920886	h^7140
+#Deleted in new
+chr7	44545690	44546113	h^7154
+#Partially deleted in new
+chr7	44844479	44844746	h^7156
+#Deleted in new
+chr7	47716222	47716618	h^7174
+#Deleted in new
+chr7	48787626	48788039	h^7178
+#Deleted in new
+chr7	51398654	51398932	h^7195
+#Deleted in new
+chr7	51568684	51569302	h^7197
+#Partially deleted in new
+chr7	55905219	55905771	h^7233
+#Partially deleted in new
+chr7	56328988	56329680	h^7234
+#Deleted in new
+chr7	64741540	64742192	h^7238
+#Deleted in new
+chr7	67118685	67119295	h^7243
+#Deleted in new
+chr7	71934264	71934452	h^7262
+#Partially deleted in new
+chr7	73297200	73297772	h^7264
+#Deleted in new
+chr7	73581197	73581366	h^7265
+#Partially deleted in new
+chr7	79213545	79214125	h^7271
+#Deleted in new
+chr7	84073703	84073866	h^7308
+#Deleted in new
+chr7	85700877	85701522	h^7326
+#Partially deleted in new
+chr7	85735802	85736468	h^7327
+#Partially deleted in new
+chr7	92466380	92466735	h^7362
+#Deleted in new
+chr7	95208716	95208949	h^7377
+#Partially deleted in new
+chr7	95966572	95967053	h^7381
+#Partially deleted in new
+chr7	97682352	97682892	h^7402
+#Split in new
+chr7	99553605	99554174	h^7410
+#Deleted in new
+chr7	113255481	113255588	h^7457
+#Partially deleted in new
+chr7	115710563	115711158	h^7476
+#Partially deleted in new
+chr7	118943586	118944037	h^7498
+#Deleted in new
+chr7	119625948	119626160	h^7504
+#Deleted in new
+chr7	123178470	123179037	h^7525
+#Deleted in new
+chr7	127849395	127850032	h^7552
+#Deleted in new
+chr7	129608591	129609194	h^7558
+#Split in new
+chr7	130838732	130839389	h^7567
+#Partially deleted in new
+chr7	137750803	137750917	h^7595
+#Partially deleted in new
+chr7	139113440	139114005	h^7602
+#Partially deleted in new
+chr7	140009339	140009893	h^7605
+#Deleted in new
+chr7	144979883	144980407	h^7626
+#Deleted in new
+chr8	5376375	5377125	h^7703
+#Partially deleted in new
+chr8	5959680	5960289	h^7708
+#Deleted in new
+chr8	8536614	8537148	h^7718
+#Deleted in new
+chr8	8556059	8556664	h^7719
+#Deleted in new
+chr8	8574384	8574680	h^7720
+#Deleted in new
+chr8	8591780	8592380	h^7721
+#Split in new
+chr8	20244895	20245388	h^7770
+#Partially deleted in new
+chr8	21261102	21261690	h^7782
+#Partially deleted in new
+chr8	24406922	24407533	h^7803
+#Partially deleted in new
+chr8	28054202	28054798	h^7822
+#Deleted in new
+chr8	30090741	30091117	h^7835
+#Deleted in new
+chr8	37511113	37511743	h^7897
+#Deleted in new
+chr8	39155065	39155727	h^7906
+#Deleted in new
+chr8	41936233	41936490	h^7917
+#Partially deleted in new
+chr8	42501558	42502148	h^7920
+#Deleted in new
+chr8	48681698	48681997	h^7926
+#Partially deleted in new
+chr8	51741672	51742121	h^7946
+#Deleted in new
+chr8	51872302	51872809	h^7949
+#Deleted in new
+chr8	55778594	55779169	h^7970
+#Deleted in new
+chr8	55961376	55962072	h^7973
+#Deleted in new
+chr8	57341239	57341414	h^7980
+#Deleted in new
+chr8	57783239	57783390	h^7986
+#Deleted in new
+chr8	64254470	64254620	h^8038
+#Deleted in new
+chr8	70056660	70057336	h^8080
+#Partially deleted in new
+chr8	71000393	71000976	h^8085
+#Partially deleted in new
+chr8	72286941	72287481	h^8094
+#Partially deleted in new
+chr8	73373205	73373780	h^8099
+#Split in new
+chr8	74840203	74840488	h^8104
+#Deleted in new
+chr8	77340172	77340775	h^8116
+#Deleted in new
+chr8	81255143	81255684	h^8153
+#Deleted in new
+chr8	83246400	83246796	h^8164
+#Deleted in new
+chr8	83328996	83329611	h^8166
+#Partially deleted in new
+chr8	95234052	95234659	h^8249
+#Deleted in new
+chr8	98640871	98641411	h^8279
+#Deleted in new
+chr8	103990247	103990861	h^8300
+#Partially deleted in new
+chr8	108147274	108147906	h^8319
+#Deleted in new
+chr8	115455676	115456262	h^8359
+#Deleted in new
+chr8	115581285	115581870	h^8361
+#Deleted in new
+chr8	120722622	120722807	h^8405
+#Deleted in new
+chr8	120877603	120878078	h^8406
+#Partially deleted in new
+chr8	122842292	122842877	h^8416
+#Partially deleted in new
+chr8	130473429	130473728	h^8489
+#Deleted in new
+chr8	133104440	133105008	h^8509
+#Deleted in new
+chr8	135751561	135752135	h^8523
+#Deleted in new
+chr8	135763890	135764505	h^8524
+#Partially deleted in new
+chr8	135934375	135934897	h^8529
+#Deleted in new
+chr8	140019043	140019563	h^8566
+#Partially deleted in new
+chr8	140307715	140308362	h^8573
+#Deleted in new
+chr9	1937608	1938060	h^8611
+#Deleted in new
+chr9	11310398	11310554	h^8655
+#Partially deleted in new
+chr9	11688371	11688970	h^8657
+#Deleted in new
+chr9	11801487	11802156	h^8658
+#Partially deleted in new
+chr9	14380648	14381256	h^8678
+#Partially deleted in new
+chr9	30638726	30638959	h^8779
+#Partially deleted in new
+chr9	32752171	32752693	h^8795
+#Deleted in new
+chr9	34320388	34320573	h^8803
+#Partially deleted in new
+chr9	35969315	35969783	h^8808
+#Partially deleted in new
+chr9	71928632	71929270	h^8821
+#Deleted in new
+chr9	74402653	74402903	h^8831
+#Partially deleted in new
+chr9	76111502	76111869	h^8848
+#Deleted in new
+chr9	76913927	76914503	h^8853
+#Deleted in new
+chr9	77789078	77789673	h^8860
+#Partially deleted in new
+chr9	80907710	80908309	h^8879
+#Deleted in new
+chr9	81320565	81321182	h^8883
+#Deleted in new
+chr9	83915795	83916477	h^8906
+#Partially deleted in new
+chr9	87138546	87138948	h^8926
+#Deleted in new
+chr9	87279704	87280010	h^8927
+#Deleted in new
+chr9	88532082	88532462	h^8933
+#Partially deleted in new
+chr9	88547299	88547663	h^8934
+#Partially deleted in new
+chr9	89086869	89087339	h^8937
+#Partially deleted in new
+chr9	97358720	97359219	h^8984
+#Partially deleted in new
+chr9	98501015	98501619	h^8987
+#Deleted in new
+chr9	102080980	102081539	h^8997
+#Deleted in new
+chr9	102273492	102274149	h^8999
+#Partially deleted in new
+chr9	103776948	103777674	h^9005
+#Deleted in new
+chr9	106582643	106583204	h^9024
+#Partially deleted in new
+chr9	107454568	107455164	h^9031
+#Partially deleted in new
+chr9	108612702	108613261	h^9036
+#Deleted in new
+chr9	111235681	111236050	h^9054
+#Deleted in new
+chr9	121083846	121084596	h^9093
+#Partially deleted in new
+chr9	121341790	121342007	h^9096
+#Partially deleted in new
+chr9	127195913	127196621	h^9129
+#Deleted in new
+chr9	131932805	131933378	h^9143
+#Deleted in new
+chr9	136872227	136872569	h^9153

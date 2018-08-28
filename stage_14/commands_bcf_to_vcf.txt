@@ -1,0 +1,6 @@
+#in terminal in yoruba directory
+
+$ bcftools call -m yoruba.bcf > consensus_fa/yoruba.vcf
+
+$ bgzip -c yoruba.vcf > yoruba.vcf.gz
+$ tabix yoruba.vcf.gz

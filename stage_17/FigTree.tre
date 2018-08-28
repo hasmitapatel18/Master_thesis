@@ -1,0 +1,10 @@
+#NEXUS
+BEGIN TREES;
+
+	UTREE 1 = (((((Nea: 0.000994, Den: 0.000994) [&height_95HPD={0.00085074, 0.0016187}, theta=0.00282803]: 0.000000, (Yoruba_AFR: 0.000113, (Spain_EUR: 0.000051, (Chinese_EAS: 0.000021, Peru_AMR: 0.000021) [&height_95HPD={1.0991e-05, 3.7374e-05}, theta=0.000903633]: 0.000029) [&height_95HPD={3.9877e-05, 8.587e-05}, theta=0.000351449]: 0.000062) [&height_95HPD={9.2667e-05, 0.00019689}, theta=0.00178754]: 0.000881) [&height_95HPD={0.00085107, 0.0016193}, theta=0.00607406]: 0.006036, Chimp: 0.007030) [&height_95HPD={0.0067476, 0.0071382}, theta=0.00376746]: 0.000892, Gor: 0.007922) [&height_95HPD={0.0078582, 0.0079896}, theta=0.00400126]: 0.003995, Orang: 0.011917) [&height_95HPD={0.011369, 0.012083}, theta=0.25102];
+
+END;
+
+
+[Species tree with tau as branch lengths and theta as labels, for FigTree.
+In FigTree, choose 95%HPD for Node Bars and label for Node Labels]

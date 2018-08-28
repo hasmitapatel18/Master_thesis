@@ -1,0 +1,22 @@
+
+#for chromosome 1, extracting Yoruba population with loci of interest
+
+#1000 genomes vcf file for chromosome 1
+$ bgzip ALL.chr1.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf
+
+$ tabix -p vcf ALL.chr1.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+
+#using altered bed file (no chr) for all chromosome 1 for Yoruba individual
+$ tabix -h -R newchr1.bed ALL.chr1.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz | vcf-subset -e -a -c NA18505 > y.vcf
+
+#bgzip will delete the original file and create a new compressed file with .gz ending
+$ bgzip  test.vcf
+
+#vcf-sort will take in a compressed file and produce a uncompressed file to standard out (i.e. the console)
+$  vcf-sort test.vcf.gz > test_sorted.vcf
+
+#produce test_sorted.vcf.gz
+$ bgzip test_sorted.vcf
+
+#This will build the index
+$ tabix test_sorted.vcf.gz
